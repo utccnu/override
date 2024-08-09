@@ -9,4 +9,4 @@ services:
     volumes:
       - ./config.json:/app/config.json
     ports:
-        - "8181:8181"
+        - "8000:8181"
